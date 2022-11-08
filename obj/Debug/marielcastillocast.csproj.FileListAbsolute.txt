@@ -1,0 +1,7 @@
+C:\Users\Tecnologico\source\repos\marielcastillocast\bin\Debug\marielcastillocast.exe.config
+C:\Users\Tecnologico\source\repos\marielcastillocast\bin\Debug\marielcastillocast.exe
+C:\Users\Tecnologico\source\repos\marielcastillocast\bin\Debug\marielcastillocast.pdb
+C:\Users\Tecnologico\source\repos\marielcastillocast\obj\Debug\marielcastillocast.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\marielcastillocast\obj\Debug\marielcastillocast.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\marielcastillocast\obj\Debug\marielcastillocast.exe
+C:\Users\Tecnologico\source\repos\marielcastillocast\obj\Debug\marielcastillocast.pdb
